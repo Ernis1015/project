@@ -31,4 +31,4 @@ const scrollEnd = () => {
 window.addEventListener("scroll", scrollEnd)
 
 setTimeout(() => openModal(), 10000)
-    'asd'
+
